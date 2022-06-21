@@ -1,1 +1,1 @@
-# NetGuru
+# NetGuru Typescript Mobile App
